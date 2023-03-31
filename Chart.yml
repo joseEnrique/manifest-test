@@ -1,0 +1,8 @@
+apiVersion: v2
+name: pip_cache
+type: application
+version: 1.0.0
+dependencies:
+  - name: app1
+    version: "0.1.0"
+    repository: "https://www.joseenriqueruiznavarro.com/helm-charts/pip-cache"
