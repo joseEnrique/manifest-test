@@ -5,4 +5,4 @@ version: 1.0.0
 dependencies:
   - name: pip-cache
     version: "0.1.0"
-    repository: "https://www.joseenriqueruiznavarro.com/helm-charts/pip-cache"
+    repository: "https://www.joseenriqueruiznavarro.com/helm-charts/"
