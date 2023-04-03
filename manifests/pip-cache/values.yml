@@ -1,4 +1,0 @@
-persistence:
-  enabled: false
-  storageClass: "standard"
-  accessMode: ReadWriteOnce
